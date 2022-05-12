@@ -1,4 +1,4 @@
-# DB_WebPage_Artist
+# DB_ArtistWebPage
 
 Design and web development of site https://www.artgeorgepaunescu.com 
 Market reaserch on the art marketplace and web development aligned to Art.
